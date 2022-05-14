@@ -68,7 +68,7 @@
     "@angular/compiler": "^13.3.0",
     "@angular/compiler-cli": "^13.3.0",
     "@angular/language-service": "^13.3.0",
-    "@capacitor/cli": "3.4.3",
+    "@capacitor/cli": "3.5.1",
     "@ionic/angular-toolkit": "6.1.0",
     "@ionic/cli": "6.19.1",
     "@ionic/lab": "^2.0.19",
