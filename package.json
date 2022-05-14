@@ -40,7 +40,7 @@
     "@ionic/angular": "6.0.13",
     "@ionic/storage": "2.2.0",
     "cordova-plugin-inappbrowser": "5.0.0",
-    "core-js": "3.20.3",
+    "core-js": "3.22.5",
     "debug": "4.3.4",
     "formidable": "3.2.3",
     "merge-release": "2.1.0",
