@@ -19,13 +19,13 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "13.3.0",
-    "@angular/core": "13.3.0",
-    "@angular/forms": "13.3.0",
-    "@angular/platform-browser": "13.3.0",
-    "@angular/platform-browser-dynamic": "13.3.0",
-    "@angular/router": "13.3.0",
-    "@angular/service-worker": "13.3.0",
+    "@angular/common": "13.3.8",
+    "@angular/core": "13.3.8",
+    "@angular/forms": "13.3.8",
+    "@angular/platform-browser": "13.3.8",
+    "@angular/platform-browser-dynamic": "13.3.8",
+    "@angular/router": "13.3.8",
+    "@angular/service-worker": "13.3.8",
     "@capacitor/android": "3.5.1",
     "@capacitor/app": "1.1.1",
     "@capacitor/core": "3.5.1",
@@ -52,7 +52,7 @@
     "uuid": "8.3.2",
     "webdriver-manager": "12.1.8",
     "workbox": "0.0.0",
-    "zone.js": "0.11.4"
+    "zone.js": "0.11.5"
   },
   "devDependencies": {
     "@angular-devkit/architect": "0.1303.5",
