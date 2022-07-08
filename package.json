@@ -71,7 +71,7 @@
     "@capacitor/cli": "3.6.0",
     "@ionic/angular-toolkit": "6.1.0",
     "@ionic/cli": "6.20.1",
-    "@ionic/lab": "3.2.12",
+    "@ionic/lab": "3.2.13",
     "@types/jasmine": "4.0.3",
     "@types/jasminewd2": "2.0.10",
     "@types/node": "12.20.55",
