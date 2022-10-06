@@ -70,7 +70,7 @@
     "@angular/language-service": "14.0.2",
     "@capacitor/cli": "4.0.1",
     "@ionic/angular-toolkit": "7.0.0",
-    "@ionic/cli": "6.20.1",
+    "@ionic/cli": "6.20.3",
     "@ionic/lab": "3.2.13",
     "@types/jasmine": "4.0.3",
     "@types/jasminewd2": "2.0.10",
