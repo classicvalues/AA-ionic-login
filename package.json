@@ -44,7 +44,7 @@
     "debug": "4.3.4",
     "formidable": "3.2.5",
     "merge-release": "4.0.26",
-    "rxjs": "7.5.7",
+    "rxjs": "7.6.0",
     "superagent": "8.0.0",
     "sw-toolbox": "3.6.0",
     "swiper": "8.4.4",
