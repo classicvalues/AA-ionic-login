@@ -46,7 +46,7 @@
     "formidable": "3.2.5",
     "merge-release": "4.0.26",
     "rxjs": "7.6.0",
-    "superagent": "8.0.5",
+    "superagent": "8.0.6",
     "sw-toolbox": "3.6.0",
     "swiper": "8.4.5",
     "tslib": "2.4.1",
