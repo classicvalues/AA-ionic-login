@@ -45,7 +45,7 @@
     "debug": "4.3.4",
     "formidable": "3.2.5",
     "merge-release": "4.0.26",
-    "rxjs": "7.8.0",
+    "rxjs": "7.8.1",
     "superagent": "8.0.9",
     "sw-toolbox": "3.6.0",
     "tslib": "2.5.0",
