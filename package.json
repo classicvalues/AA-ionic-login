@@ -31,7 +31,7 @@
     "@angular/service-worker": "15.1.4",
     "@capacitor/app": "4.1.1",
     "@capacitor/device": "4.1.0",
-    "@capacitor/haptics": "4.1.0",
+    "@capacitor/haptics": "6.0.1",
     "@capacitor/ios": "4.6.3",
     "@capacitor/keyboard": "4.1.1",
     "@capacitor/splash-screen": "4.1.4",
