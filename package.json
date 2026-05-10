@@ -22,7 +22,7 @@
     "@capacitor/android": "4.6.3",
     "@capacitor/core": "4.6.3",
     "@capacitor/ios": "4.6.0",
-    "@angular/common": "15.1.4",
+    "@angular/common": "19.2.16",
     "@angular/core": "15.1.4",
     "@angular/forms": "15.1.4",
     "@angular/platform-browser": "15.1.4",
