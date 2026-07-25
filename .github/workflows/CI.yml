@@ -16,9 +16,9 @@ jobs:
         os: [windows-latest, macOS-latest]
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v3.7.0
     - name: Use Node.js ${{ matrix.node_version }}
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v3.9.1
       with:
         node-version: ${{ matrix.node_version }}
     - name: Install Dependencies
